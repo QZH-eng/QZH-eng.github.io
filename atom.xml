@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/QZH-eng/qzheng.github.io</id>
+    <id>https://qzheng.github.io</id>
     <title>Gridea</title>
-    <updated>2021-03-26T15:56:43.402Z</updated>
+    <updated>2021-03-26T15:57:18.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/QZH-eng/qzheng.github.io"/>
-    <link rel="self" href="https://github.com/QZH-eng/qzheng.github.io/atom.xml"/>
+    <link rel="alternate" href="https://qzheng.github.io"/>
+    <link rel="self" href="https://qzheng.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/QZH-eng/qzheng.github.io/images/avatar.png</logo>
-    <icon>https://github.com/QZH-eng/qzheng.github.io/favicon.ico</icon>
+    <logo>https://qzheng.github.io/images/avatar.png</logo>
+    <icon>https://qzheng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[利用邻接矩阵对图进行子图分解]]></title>
-        <id>https://github.com/QZH-eng/qzheng.github.io/post/li-yong-lin-jie-ju-zhen-dui-tu-jin-xing-zi-tu-fen-jie/</id>
-        <link href="https://github.com/QZH-eng/qzheng.github.io/post/li-yong-lin-jie-ju-zhen-dui-tu-jin-xing-zi-tu-fen-jie/">
+        <id>https://qzheng.github.io/post/li-yong-lin-jie-ju-zhen-dui-tu-jin-xing-zi-tu-fen-jie/</id>
+        <link href="https://qzheng.github.io/post/li-yong-lin-jie-ju-zhen-dui-tu-jin-xing-zi-tu-fen-jie/">
         </link>
         <updated>2021-03-26T15:46:10.000Z</updated>
         <content type="html"><![CDATA[<p>图形结构是一种比树形结构更复杂的非线性结构。在树形结构中，结点间具有分支层次关系，每一层上的结点只能和上一层中的至多一个结点相关，但可能和下一层的多个结点相关。而在图形结构中，任意两个结点之间都可能相关，即结点之间的邻接关系可以是任意的。</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/QZH-eng/qzheng.github.io/post/hello-gridea/</id>
-        <link href="https://github.com/QZH-eng/qzheng.github.io/post/hello-gridea/">
+        <id>https://qzheng.github.io/post/hello-gridea/</id>
+        <link href="https://qzheng.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
